@@ -173,8 +173,6 @@ bottom
 
 ## 5. Codebase
 
-Do *not* commit any of your source code to this repository. Rather, provide links to the other GitHub repository you've already been using with your firmware.
+**Link to final embedded C firmware codebases : [Final Project Code](https://github.com/ese5160/final-project-firmware-s26-t16-edge-vibe/tree/main/rtos)**
 
-- A link to your final embedded C firmware codebases
-- A link to your Node-RED dashboard code
-- Links to any other software required for the functionality of your device
+**Link to your Node-RED dashboard code :  [Node-red code](https://github.com/ese5160/final-project-firmware-s26-t16-edge-vibe/blob/main/node-red/final_sub_node-red.json)        [Node Red Dashboard](http://20.112.17.103:1880/dashboard/page2)**
