@@ -106,6 +106,71 @@ Through ESE5160, I learned how to design and build a complete embedded system fr
 
 ## 4. Project Photos & Screenshots
 
+
+**Final project**
+
+![1777866328852](image/README/1777866328852.png)
+
+**3D Print**
+
+![1777866423586](image/README/1777866423586.png)
+
+![1777866436500](image/README/1777866436500.png)
+
+![1777866556757](image/README/1777866556757.png)
+
+**PCBA, top**
+
+![1777866571173](image/README/1777866571173.png)
+
+**PCBA, bottom**
+
+![1777866870214](image/README/1777866870214.png)
+
+**Thermal camera images**
+
+![1777866882818](image/README/1777866882818.png)
+
+**Altium Board design in 2D view**
+(1) All Layers
+
+![1777866901540](image/README/1777866901540.png)
+
+Flipped
+
+![1777866913735](image/README/1777866913735.png)
+
+(2) Top Layer
+
+![1777866927223](image/README/1777866927223.png)
+
+(3) Bottom Layer
+
+![1777866939334](image/README/1777866939334.png)
+
+Note: Middle two layers used for polygon pours – power and ground planes
+
+**Altium Board design in 3D view**
+
+top
+![1777866954688](image/README/1777866954688.png)
+
+bottom
+
+![1777866964015](image/README/1777866964015.png)
+
+**Node-RED dashboard**
+
+![1777866973979](image/README/1777866973979.png)
+
+**Node-RED backend**
+
+![1777866985196](image/README/1777866985196.png)
+
+**Block diagram**
+
+![1777866994589](image/README/1777866994589.png)
+
 ## 5. Codebase
 
 Do *not* commit any of your source code to this repository. Rather, provide links to the other GitHub repository you've already been using with your firmware.
