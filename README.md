@@ -84,6 +84,26 @@ Through ESE5160, I learned how to design and build a complete embedded system fr
 
 ## 3. Hardware & Software Requirements
 
+##### Hardware Requirements (HRS)
+
+* **HRS-01:** The SiWG917Y MCU successfully handled system control and Wi-Fi communication.
+* **HRS-02:** The system supports 16 letters instead of 26 due to GPIO limitations and multiplexer constraints.
+* **HRS-03:** Digital multiplexer and letter decoding worked reliably for the supported inputs.
+* **HRS-04:** The ambient light sensor functioned correctly and data was displayed on the dashboard with low-light alerts.
+* **HRS-05:**  OLED display worked, showing simple animation according to the user input.
+* **HRS-06:** The magnetic buzzer provided reliable audio feedback for system events.
+* **HRS-07:** Base lighting was not implemented and was replaced with a dashboard-based feedback mechanism.
+* **HRS-08:** Control buttons functioned correctly after redesign and simplification.
+
+##### Software Requirements (SRS)
+
+* **SRS-01:** Letter tile detection latency met the ≤100 ms requirement during testing.
+* **SRS-02:** Letter encoding and recognition worked correctly for the supported 16-letter subset.
+* **SRS-03:** The system correctly validated user input against the target word.
+* **SRS-04:** Feedback was provided within the required 500 ms timeframe.
+* **SRS-05:** The OLED display reliably showed target words and system status.
+* **SRS-06:** Wi-Fi communication with the Node-RED dashboard worked successfully for data exchange.
+
 ## 4. Project Photos & Screenshots
 
 ## 5. Codebase
